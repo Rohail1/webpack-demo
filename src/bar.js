@@ -5,7 +5,7 @@
 
 import foo from "./foo";
 
-export default function bar () {
-  console.log('Barr !!!')
+export function bar () {
+  console.log('Barr !!!');
   foo();
 }
