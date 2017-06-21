@@ -4,7 +4,9 @@
   "description": "Basic Webpack ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --watch",
+    "prod": "webpack -p"
   },
   "author": "Rohail Najam <rohail@lumous.pk>",
   "license": "MIT",
