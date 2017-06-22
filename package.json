@@ -11,6 +11,7 @@
   "author": "Rohail Najam <rohail@lumous.pk>",
   "license": "MIT",
   "devDependencies": {
+    "html-webpack-plugin": "^2.28.0",
     "webpack": "^2.6.1"
   }
 }
